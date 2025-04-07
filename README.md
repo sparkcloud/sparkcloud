@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: --->
 
-- 🔭 I’m currently working on being a software developer
+- 🔭 I’m currently working on being a software developer with an interest in video games
 - 🌱 I’m currently learning python, C# and about git/github and online collaboration
 - 👯 I’m looking to collaborate on just about anything really
 - 🤔 I’m looking for help with improving my coding skills
